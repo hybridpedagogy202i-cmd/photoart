@@ -1,0 +1,4 @@
+(prompts.md, script.js, and style.css are source files, so no need to ignore them)
+
+# No build artifacts, dependencies, or temp files detected
+# Source files only (.md, .js, .css) - keeping .gitignore empty
